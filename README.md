@@ -1,4 +1,4 @@
 I am @radiusculling
-I'm obsessed with AutoHotkey
-although sometimes I'm forced to use a different language
+I'm obsessed with AutoHotkey.
+Sometimes I'm forced to use a different language
 
